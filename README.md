@@ -1,2 +1,14 @@
-# dicas-bem-estar
-Projeto de site focado em bem-estar e melhoria de estilo de vida.  O objetivo é compartilhar dicas simples para ajudar as pessoas a viverem melhor no dia a dia.  🔧 Tecnologias: - HTML - CSS - JS  🚀 Projeto em evolução, focado em aprendizado prático.
+🌱 Site de Bem-Estar
+
+Projeto focado em compartilhar dicas para melhorar o estilo de vida.
+
+ 🚀 Tecnologias
+- HTML
+- CSS
+- JavaScript
+
+💡 Objetivo
+Praticar desenvolvimento web e ajudar pessoas com conteúdo útil.
+
+🔗 Acesse
+(https://dicasdevida.netlify.app/)
